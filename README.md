@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on software or Ai art 
 - 📫 How to reach me diabolele@gmail.com
 - 😄 Pronouns: He/HIm
-- ⚡ Fun fact: Usually considered a Pyromaniac
-- 
+- ⚡ Fun fact: Usually considered a Piromaniac
+  
 
 <!---
 diabolele/diabolele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
